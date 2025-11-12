@@ -38,7 +38,7 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" uid="8311c16333b74761a23a976e234321af" name="Ecriture de la fiche de gestion projet" meeting="false" start="2025-11-12" duration="1" complete="99" priority="2" expand="true"/>
+        <task id="0" uid="8311c16333b74761a23a976e234321af" name="Ecriture de la fiche de gestion projet" meeting="false" start="2025-11-12" duration="1" complete="100" priority="2" expand="true"/>
         <task id="1" uid="05ba6d1f77ba46c19d9e8763c78077b1" name="Test des threads" meeting="false" start="2025-11-12" duration="1" complete="0" expand="true">
             <depend id="8" type="2" difference="0" hardness="Strong"/>
         </task>
